@@ -1,0 +1,109 @@
+
+
+Fetching projects: 100% (30/30), done.  
+git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_eng/arm/gralloc.mali.so': 1: git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_eng/arm/gralloc.mali.so': git-lfs: not found
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_eng/arm/libGLES_mali.so': 1: git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_eng/arm/libGLES_mali.so': git-lfs: not found
+error: cannot feed the input to external filter git-lfs smudge --skip -- %f
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_eng/arm64/gralloc.mali.so': 1: git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_eng/arm64/gralloc.mali.so': git-lfs: not found
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_eng/arm64/libGLES_mali.so': 1: git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_eng/arm64/libGLES_mali.so': git-lfs: not found
+error: cannot feed the input to external filter git-lfs smudge --skip -- %f
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_user/arm/gralloc.mali.so': 1: git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_user/arm/gralloc.mali.so': git-lfs: not found
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_user/arm/libGLES_mali.so': 1: git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_user/arm/libGLES_mali.so': git-lfs: not found
+error: cannot feed the input to external filter git-lfs smudge --skip -- %f
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_user/arm64/gralloc.mali.so': 1: git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_user/arm64/gralloc.mali.so': git-lfs: not found
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_user/arm64/libGLES_mali.so': 1: git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_user/arm64/libGLES_mali.so': git-lfs: not found
+error: cannot feed the input to external filter git-lfs smudge --skip -- %f
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/libcamera_3a/libccu_lib/mt6757/prebuilt/libcamdrv_ccu/arm/libcamdrv_ccu.so': 1: git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/libcamera_3a/libccu_lib/mt6757/prebuilt/libcamdrv_ccu/arm/libcamdrv_ccu.so': git-lfs: not found
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/libcamera_3a/libccu_lib/mt6757/prebuilt/libcamdrv_ccu/arm64/libcamdrv_ccu.so': 1: git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/libcamera_3a/libccu_lib/mt6757/prebuilt/libcamdrv_ccu/arm64/libcamdrv_ccu.so': git-lfs: not found
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/libcamera_3a/libccu_lib/mt6757/prebuilt/libcamdrv_ccuif/arm/libcamdrv_ccuif.so': 1: git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/libcamera_3a/libccu_lib/mt6757/prebuilt/libcamdrv_ccuif/arm/libcamdrv_ccuif.so': git-lfs: not found
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/libcamera_3a/libccu_lib/mt6757/prebuilt/libcamdrv_ccuif/arm64/libcamdrv_ccuif.so': 1: git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/libcamera_3a/libccu_lib/mt6757/prebuilt/libcamdrv_ccuif/arm64/libcamdrv_ccuif.so': git-lfs: not found
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/libcamera_3a/libccu_lib/mt6757/prebuilt/libccu_bin/libccu_bin.dm': 1: git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/libcamera_3a/libccu_lib/mt6757/prebuilt/libccu_bin/libccu_bin.dm': git-lfs: not found
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/libcamera_3a/libccu_lib/mt6757/prebuilt/libccu_bin/libccu_bin.pm': 1: git-lfs smudge --skip -- 'vendor/mediatek/proprietary/hardware/libcamera_3a/libccu_lib/mt6757/prebuilt/libccu_bin/libccu_bin.pm': git-lfs: not found
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+Checking out files: 100% (648577/648577), done.
+Checking out files: 100% (11760/11760), done.files:  17% (2005/11760)   
+Checking out files: 100% (11675/11675), done. files:  31% (3658/11675)   
+Checking out files: 100% (183925/183925), done.iles:   4% (8784/183925)   
+Checking out files: 100% (48218/48218), done. files:  13% (6726/48218)   
+Checking out files: 100% (56804/56804), done. files:  20% (11388/56804)   
+Checking out files: 100% (5633/5633), done.ut files:  41% (2329/5633)   
+Checking out files: 100% (37508/37508), done. files:  29% (11044/37508)   
+Checking out files: 100% (150061/150061), done.iles:   0% (55/150061)   
+Checking out files: 100% (2704/2704), done.ut files:   5% (150/2704)   
+Checking out files: 100% (15776/15776), done. files:   7% (1198/15776)   
+Checking out files: 100% (226/226), done. out files:  26% (59/226)   
+git-lfs smudge --skip -- 'mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_eng/arm/gralloc.mali.so': 1: git-lfs smudge --skip -- 'mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_eng/arm/gralloc.mali.so': git-lfs: not found
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_eng/arm/libGLES_mali.so': 1: git-lfs smudge --skip -- 'mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_eng/arm/libGLES_mali.so': git-lfs: not found
+error: cannot feed the input to external filter git-lfs smudge --skip -- %f
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_eng/arm64/gralloc.mali.so': 1: git-lfs smudge --skip -- 'mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_eng/arm64/gralloc.mali.so': git-lfs: not found
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_eng/arm64/libGLES_mali.so': 1: git-lfs smudge --skip -- 'mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_eng/arm64/libGLES_mali.so': git-lfs: not found
+error: cannot feed the input to external filter git-lfs smudge --skip -- %f
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_user/arm/gralloc.mali.so': 1: git-lfs smudge --skip -- 'mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_user/arm/gralloc.mali.so': git-lfs: not found
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_user/arm/libGLES_mali.so': 1: git-lfs smudge --skip -- 'mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_user/arm/libGLES_mali.so': git-lfs: not found
+error: cannot feed the input to external filter git-lfs smudge --skip -- %f
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_user/arm64/gralloc.mali.so': 1: git-lfs smudge --skip -- 'mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_user/arm64/gralloc.mali.so': git-lfs: not found
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_user/arm64/libGLES_mali.so': 1: git-lfs smudge --skip -- 'mediatek/proprietary/hardware/gpu_mali_lib/mt6757/prebuilt_user/arm64/libGLES_mali.so': git-lfs: not found
+error: cannot feed the input to external filter git-lfs smudge --skip -- %f
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'mediatek/proprietary/hardware/libcamera_3a/libccu_lib/mt6757/prebuilt/libcamdrv_ccu/arm/libcamdrv_ccu.so': 1: git-lfs smudge --skip -- 'mediatek/proprietary/hardware/libcamera_3a/libccu_lib/mt6757/prebuilt/libcamdrv_ccu/arm/libcamdrv_ccu.so': git-lfs: not found
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'mediatek/proprietary/hardware/libcamera_3a/libccu_lib/mt6757/prebuilt/libcamdrv_ccu/arm64/libcamdrv_ccu.so': 1: git-lfs smudge --skip -- 'mediatek/proprietary/hardware/libcamera_3a/libccu_lib/mt6757/prebuilt/libcamdrv_ccu/arm64/libcamdrv_ccu.so': git-lfs: not found
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'mediatek/proprietary/hardware/libcamera_3a/libccu_lib/mt6757/prebuilt/libcamdrv_ccuif/arm/libcamdrv_ccuif.so': 1: git-lfs smudge --skip -- 'mediatek/proprietary/hardware/libcamera_3a/libccu_lib/mt6757/prebuilt/libcamdrv_ccuif/arm/libcamdrv_ccuif.so': git-lfs: not found
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'mediatek/proprietary/hardware/libcamera_3a/libccu_lib/mt6757/prebuilt/libcamdrv_ccuif/arm64/libcamdrv_ccuif.so': 1: git-lfs smudge --skip -- 'mediatek/proprietary/hardware/libcamera_3a/libccu_lib/mt6757/prebuilt/libcamdrv_ccuif/arm64/libcamdrv_ccuif.so': git-lfs: not found
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'mediatek/proprietary/hardware/libcamera_3a/libccu_lib/mt6757/prebuilt/libccu_bin/libccu_bin.dm': 1: git-lfs smudge --skip -- 'mediatek/proprietary/hardware/libcamera_3a/libccu_lib/mt6757/prebuilt/libccu_bin/libccu_bin.dm': git-lfs: not found
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+git-lfs smudge --skip -- 'mediatek/proprietary/hardware/libcamera_3a/libccu_lib/mt6757/prebuilt/libccu_bin/libccu_bin.pm': 1: git-lfs smudge --skip -- 'mediatek/proprietary/hardware/libcamera_3a/libccu_lib/mt6757/prebuilt/libccu_bin/libccu_bin.pm': git-lfs: not found
+error: external filter git-lfs smudge --skip -- %f failed -1
+error: external filter git-lfs smudge --skip -- %f failed
+Checking out files: 100% (68359/68359), done.
+Syncing work tree: 100% (30/30), done. 

@@ -1,0 +1,8 @@
+<!--footer.html-->
+{% block footer %}
+	{% if now %}
+		<p style='font-family:华文楷体;font-size:14pt;'>现在时刻：{{now}} </p>
+	{% else %}
+		<p style='font-family:华方楷体;font-size:14pt;'>本文内容取自网络，如有侵权请来信通知下架...</p>
+	{% endif %}
+{% endblock %}
